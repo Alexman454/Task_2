@@ -1,0 +1,7 @@
+[paths]
+visualization_tool = "C:\\Users\\Alexander\\AppData\\Roaming\\npm\\mmdc.cmd"
+repository_path = "C:\\Users\\Alexander\\Downloads\\Задача_2"
+output_path = "C:\\Users\\Alexander\\Downloads\\Задача_2\\graph.png"
+
+[git]
+tag_name = "v1.0.0"
