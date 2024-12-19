@@ -34,3 +34,19 @@ npm install -g @mermaid-js/mermaid-cli
 ```Bash
 python main.py
 ```
+Запустить тест.
+```Bash
+python -m pytest test.py -s
+```
+# Тесты
+Запуск основной программы:
+
+![](https://github.com/Alexman454/Task_2/blob/main/main.png)
+
+Полученный граф:
+
+![](https://github.com/Alexman454/Task_2/blob/main/graph.png)
+
+Тест с использованием pytest:
+
+![](https://github.com/Alexman454/Task_2/blob/main/test.png)
